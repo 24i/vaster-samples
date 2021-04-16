@@ -1,0 +1,110 @@
+<VAST version="3.0">
+  <Ad id="25284" sequence="1">
+    <InLine>
+      <AdSystem>Adscience</AdSystem>
+      <AdTitle>
+        <![CDATA[ad25284]]>
+      </AdTitle>
+      <Description>
+        <![CDATA[video ad]]>
+      </Description>
+      <Error>
+        <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/error?code=[ERRORCODE]&ssp=STER_NOTHING_PERSONAL&bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50&banner_id=26979&substrategy_id=10&VAST=3.0&external_user=1543369683-16932070&consent=0&ad_id=25284&campaign_id=3550]]>
+      </Error>
+      <Impression>
+        <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/impression?ssp=STER_NOTHING_PERSONAL&bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50&banner_id=26979&substrategy_id=10&VAST=3.0&external_user=1543369683-16932070&consent=0&ad_id=25284&campaign_id=3550]]>
+      </Impression>
+      <Creatives>
+        <Creative id="25284">
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/start?bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50&banner_id=26979&substrategy_id=10&external_user=1543369683-16932070&consent=0&campaign_id=3550]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/firstQuartile?bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50&banner_id=26979&substrategy_id=10&external_user=1543369683-16932070&consent=0&campaign_id=3550]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/midpoint?bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50&banner_id=26979&substrategy_id=10&external_user=1543369683-16932070&consent=0&campaign_id=3550]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/thirdQuartile?bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50&banner_id=26979&substrategy_id=10&external_user=1543369683-16932070&consent=0&campaign_id=3550]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/complete?bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50&banner_id=26979&substrategy_id=10&external_user=1543369683-16932070&consent=0&campaign_id=3550]]>
+              </Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[https://track.adform.net/C/?bn=26022060]]>
+              </ClickThrough>
+              <ClickTracking>
+                <![CDATA[https://adscience-nocookie.nl/cgi-bin/clk.fcgi?cb=https%3A%2F%2Ftrack.adform.net%2FC%2F%3Fbn%3D26022060&bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50&banner_id=26979&substrategy_id=10&external_user=1543369683-16932070&consent=0&campaign_id=3550]]>
+              </ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile id="1334" delivery="progressive" type="video/mp4" width="720" height="404" scalable="true" maintainAspectRatio="true" bitrate="817">
+                <![CDATA[https://cdn.ster.nl/banners/17782ag.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id="25348" sequence="2">
+    <InLine>
+      <AdSystem>Adscience</AdSystem>
+      <AdTitle>
+        <![CDATA[ad25348]]>
+      </AdTitle>
+      <Description>
+        <![CDATA[video ad]]>
+      </Description>
+      <Error>
+        <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/error?code=[ERRORCODE]&ssp=STER_NOTHING_PERSONAL&bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50_1&banner_id=27093&substrategy_id=10&VAST=3.0&external_user=1543369683-16932070&consent=0&ad_id=25348&campaign_id=3484]]>
+      </Error>
+      <Impression>
+        <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/impression?ssp=STER_NOTHING_PERSONAL&bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50_1&banner_id=27093&substrategy_id=10&VAST=3.0&external_user=1543369683-16932070&consent=0&ad_id=25348&campaign_id=3484]]>
+      </Impression>
+      <Creatives>
+        <Creative id="25348">
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+              <Tracking event="start">
+                <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/start?bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50_1&banner_id=27093&substrategy_id=10&external_user=1543369683-16932070&consent=0&campaign_id=3484&redirect=https%3A%2F%2Fn01d05.cumulus-cloud.com%2Ftrackers%2Fvimp_tag.php%3Ft%3Dimg%26cid%3D4258037649%26chid%3D93238%26f%3D1x1%26nid%3DSTER%26plcid%3DTouch%26crtid%3DVideo%26quartile%3D0%26ts%3D5170283]]>
+              </Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/firstQuartile?bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50_1&banner_id=27093&substrategy_id=10&external_user=1543369683-16932070&consent=0&campaign_id=3484&redirect=https%3A%2F%2Fn01d05.cumulus-cloud.com%2Ftrackers%2Fvimp_tag.php%3Ft%3Dimg%26cid%3D4258037649%26chid%3D93238%26f%3D1x1%26nid%3DSTER%26plcid%3DTouch%26crtid%3DVideo%26quartile%3D1%26ts%3D4549024]]>
+              </Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/midpoint?bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50_1&banner_id=27093&substrategy_id=10&external_user=1543369683-16932070&consent=0&campaign_id=3484&redirect=https%3A%2F%2Fn01d05.cumulus-cloud.com%2Ftrackers%2Fvimp_tag.php%3Ft%3Dimg%26cid%3D4258037649%26chid%3D93238%26f%3D1x1%26nid%3DSTER%26plcid%3DTouch%26crtid%3DVideo%26quartile%3D2%26ts%3D5886718]]>
+              </Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/thirdQuartile?bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50_1&banner_id=27093&substrategy_id=10&external_user=1543369683-16932070&consent=0&campaign_id=3484&redirect=https%3A%2F%2Fn01d05.cumulus-cloud.com%2Ftrackers%2Fvimp_tag.php%3Ft%3Dimg%26cid%3D4258037649%26chid%3D93238%26f%3D1x1%26nid%3DSTER%26plcid%3DTouch%26crtid%3DVideo%26quartile%3D3%26ts%3D4542142]]>
+              </Tracking>
+              <Tracking event="complete">
+                <![CDATA[https://adscience-nocookie.nl/cgi-bin/video/complete?bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50_1&banner_id=27093&substrategy_id=10&external_user=1543369683-16932070&consent=0&campaign_id=3484&redirect=https%3A%2F%2Fn01d05.cumulus-cloud.com%2Ftrackers%2Fvimp_tag.php%3Ft%3Dimg%26cid%3D4258037649%26chid%3D93238%26f%3D1x1%26nid%3DSTER%26plcid%3DTouch%26crtid%3DVideo%26quartile%3D4%26ts%3D3061512]]>
+              </Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA[https://ad.doubleclick.net/ddm/trackclk/N299803.1972103DOUBLECLICKBIDM1/B21913924.232564763;dc_trk_aid=430310109;dc_trk_cid=107997655;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=]]>
+              </ClickThrough>
+              <ClickTracking>
+                <![CDATA[https://adscience-nocookie.nl/cgi-bin/clk.fcgi?cb=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN299803.1972103DOUBLECLICKBIDM1%2FB21913924.232564763%3Bdc_trk_aid%3D430310109%3Bdc_trk_cid%3D107997655%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D&bid_id=1543369683_3778C887AA33F1A716E8F072A1AF22A1_70_00043524_50_1&banner_id=27093&substrategy_id=10&external_user=1543369683-16932070&consent=0&campaign_id=3484]]>
+              </ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile id="1353" delivery="progressive" type="video/mp4" width="720" height="404" scalable="true" maintainAspectRatio="true" bitrate="817">
+                <![CDATA[https://cdn.ster.nl/banners/24853ai.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
